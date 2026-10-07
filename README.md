@@ -3,6 +3,9 @@
 > **"Check. Verify. Remember. Stay Safe."**  
 > *B.Tech Computer Science & Engineering Capstone / Final Year Project Prototype*
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medicinechecker-rcom4wkzkjruvmfflwtosj.streamlit.app/)
+🌐 **Live Web Application:** [https://medicinechecker-rcom4wkzkjruvmfflwtosj.streamlit.app/](https://medicinechecker-rcom4wkzkjruvmfflwtosj.streamlit.app/)
+
 ---
 
 ## ⚠️ Academic Prototype & Safety Notice

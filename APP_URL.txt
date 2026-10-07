@@ -1,0 +1,10 @@
+# MediSafe - Live Deployed Web Application
+
+Live Application URL:
+https://medicinechecker-rcom4wkzkjruvmfflwtosj.streamlit.app/
+
+GitHub Repository:
+https://github.com/nainjatin916-tech/Medicinechecker
+
+Deployed via: Streamlit Community Cloud
+Status: Live & Active
