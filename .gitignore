@@ -38,3 +38,7 @@ htmlcov/
 *.swo
 .DS_Store
 Thumbs.db
+
+# Helper scripts
+upload_to_github.bat
+*.bat.log
